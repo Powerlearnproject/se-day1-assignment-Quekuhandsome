@@ -85,4 +85,4 @@ Vague prompt:
  I want to learn how to code, help me!
 
 Improved prompt:
-I'm a beginner interested in learning Python programming. Can you provide a step-by-step guide on how to
+I'm a beginner interested in learning Python programming. Can you provide a step-by-step guide on how to.
